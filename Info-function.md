@@ -24,7 +24,7 @@ Array
 (
     [author] => Andre Sieverding
     [license] => MIT http://opensource.org/licenses/MIT
-    [version] => 0.2
+    [version] => 0.4.0
     [website] => http://www.andre-sieverding.de
     [github] => https://github.com/Teddy95
     [src] => https://github.com/Teddy95/EasyRouter
