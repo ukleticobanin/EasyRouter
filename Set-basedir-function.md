@@ -8,7 +8,7 @@ Teddy95\EasyRouter\route::set_basedir( string $base_directory )
 
 ```$base_directory``` = URL to the root-directory of your website.
 
-### Little example with parameters and exceptions:
+### Little example:
 
 ```php
 <?php
