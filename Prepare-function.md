@@ -12,7 +12,7 @@ Teddy95\EasyRouter\route::prepare( string $prepare_string )
 
 Returns FALSE on failure.
 
-### Little example with prepare pattern:
+### Little example with execution:
 
 ```php
 <?php
