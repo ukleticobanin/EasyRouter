@@ -1,6 +1,6 @@
-# Info function
+(EasyRouter >= 0.2.0 && <= 0.4.1)
 
-(EasyRouter >= 0.2.0)
+> This function is __deprecated__!
 
 ```php
 Teddy95\EasyRouter\route::info()
